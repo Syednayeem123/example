@@ -1,0 +1,5 @@
+To read input: import java.util.*;
+
+Scanner sc: New.scanner();
+
+In.nextInt();
